@@ -6,7 +6,7 @@ Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learni
 
 <p align="center"><img src="https://github.com/khanhphantt/Face-Mask-Detection/blob/master/images/out.jpeg" width="700" height="400"></p>
 
-## :warning: TechStack/framework used
+## framework used
 - [OpenCV](https://opencv.org/)
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
 - [Keras](https://keras.io/)
@@ -36,7 +36,7 @@ $ git clone https://github.com/khanhphantt/Face-Mask-Detection
 $ cd Face-Mask-Detection
 ```
 
-3. Create a Python virtual environment named 'test' and activate it
+3. Create a Python virtual environment named '.venv' and activate it
 ```
 $ python -m venv .venv
 $ .venv/bin/activate
