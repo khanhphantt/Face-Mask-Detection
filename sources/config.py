@@ -8,7 +8,7 @@ MODEL_MASK_DETECTOR = "models/mask_detector.model"
 
 # Config server for webcam
 RTC_CONFIGURATION = RTCConfiguration(
-    {"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]},
+    {"iceServers": [{"urls": ["stun:stun4.l.google.com:19305"]}]},
 )
 
 # IMAGE
